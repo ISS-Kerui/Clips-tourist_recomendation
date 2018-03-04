@@ -80,8 +80,4 @@ Yes or No
 
 The system recommends different sites depending on user's answers. For daily recommendation, the system recommends three large sites, each containing a number of small attractions.
 
-## 6. System message
 
-For question 6-8, users must choose **one** picture. If click **Next** button directly, the system will show the system message.
-
-![3772F43B-900F-4F6D-AE76-F9602220858A](/Users/zhangkerui/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/520291037/QQ/Temp.db/3772F43B-900F-4F6D-AE76-F9602220858A.png)
